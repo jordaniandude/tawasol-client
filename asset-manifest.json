@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/tawasol/static/css/main.4719b67f.css",
+    "main.js": "/tawasol/static/js/main.b9ac3790.js",
+    "static/media/landing.jpg": "/tawasol/static/media/landing.bdc46aa3abe4832b1f35.jpg",
+    "index.html": "/tawasol/index.html",
+    "main.4719b67f.css.map": "/tawasol/static/css/main.4719b67f.css.map",
+    "main.b9ac3790.js.map": "/tawasol/static/js/main.b9ac3790.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4719b67f.css",
+    "static/js/main.b9ac3790.js"
+  ]
+}
